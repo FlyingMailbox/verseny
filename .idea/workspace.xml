@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c70bd22a-3e92-4ca7-ae9d-4f90c7fefccb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oOYQxJnh00tGIZYhclGPXbkedZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.1.oldal.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Dij.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Regisztralj.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Szabalyok.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Versenyzok.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/patrik/Egyetem/III.felev/Webterv/beadando/123 Rajt&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\patrik\Egyetem\III.felev\Webterv\beadando\1.oldal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\patrik\Egyetem\III.felev\Webterv\beadando\1.oldal" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c70bd22a-3e92-4ca7-ae9d-4f90c7fefccb" name="Changes" comment="" />
+      <created>1730742076823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730742076823</updated>
+      <workItem from="1730742077908" duration="7624000" />
+      <workItem from="1731329724846" duration="8005000" />
+      <workItem from="1731417300808" duration="532000" />
+      <workItem from="1731596924173" duration="4043000" />
+      <workItem from="1731867433138" duration="43000" />
+      <workItem from="1731953970549" duration="4046000" />
+      <workItem from="1732020492101" duration="4763000" />
+      <workItem from="1732029757916" duration="1774000" />
+      <workItem from="1732035797087" duration="916000" />
+      <workItem from="1732125839033" duration="7535000" />
+      <workItem from="1732138037599" duration="3636000" />
+      <workItem from="1732481346587" duration="1503000" />
+      <workItem from="1752588484887" duration="271000" />
+      <workItem from="1752608158376" duration="669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

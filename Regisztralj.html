@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Regisztráció</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="nav">
+  <button onclick="location.href='index.html'" class="transparent-button nagy-gomb bal-gomb">Kezdőlap</button>
+  <button onclick="location.href='Versenyzok.html'" class="transparent-button">Versenyzők</button>
+  <button onclick="location.href='Szabalyok.html'" class="transparent-button">Szabályok</button>
+  <button onclick="location.href='Kapcsolat.html'" class="transparent-button">Kapcsolat</button>
+  <button onclick="location.href='Dij.html'" class="transparent-button kis-gomb jobb-gomb">Díj</button>
+</div>
+
+<div class="slideshow-container">
+  <h2>Készen állsz, hogy szembe nézz az aréna kihívásaival? Regisztrálj most, és lépj be azok közé, akik merik vállalni a lehetetlent!</h2>
+  <p>A kihívás és a dicsőség színtere vár rád. Mered vállalni a harcot? Lépj be a legendák közé!</p>
+</div>
+
+<div>
+  <h2>Regisztráció</h2>
+</div>
+<form class="registry-container">
+  <div class="icon-row">
+    <img class="icon" src="mail-colored.png" alt="">
+    <input type="text" placeholder="Név:">
+  </div>
+  <hr>
+  <div class="icon-row">
+    <img class="icon" src="user-colored.png" alt="">
+    <input type="text" placeholder="Email:">
+  </div>
+  <hr>
+  <div class="icon-row">
+    <img class="icon" src="hello-colored.png" alt="">
+    <textarea name="introduction" id="introduction-text" cols="100" rows="10" placeholder="Rövid bemutatkozás (maximum 3-4 mondat):"></textarea>
+  </div>
+  <hr>
+  <div class="icon-row">
+    <img class="icon" src="image-colored.png" alt="">
+    <label for="file-upload">Kép vagy szimbólum választása (opcionális):</label>
+  </div>
+  <input type="file" id="file-upload">
+  <hr>
+</form>
+<div id="bg-container">
+  <div class="buttondiv">
+    <button class="transparent-button nagy-gomb">Regisztrálj Most!</button>
+  </div>
+</div>
+<img id="left-vine" src="inda.png" alt="inda">
+<img id="right-vine" src="inda.png" alt="inda">
+<footer>
+  <div class="footer-top">
+    <div class="footer-box left">
+      <div class="footer-top-text">
+        Szponzorok:
+      </div>
+      <ul>
+        <li>Sivatagi Napistenek Szövetsége</li>
+        <li>Arany Dűnék Kereskedői Karaván</li>
+        <li>Homok és Szél Alapítvány</li>
+        <li>Pálmaligetek Oázishálózata</li>
+      </ul>
+    </div>
+    <div class="footer-box right">
+      <div class="footer-top-text">
+        Közreműködők:
+      </div>
+      <div class="list-container">
+        <div class="footer-list">
+          <ul>
+            <li>A Sivatagi Homokmesterek</li>
+            <li>A Színek és Jelképek Művészei</li>
+            <li>A Térképész Céh Nagytanácsa</li>
+            <li>A Fenséges Hangok Karavánja</li>
+          </ul>
+        </div>
+        <div class="footer-list">
+          <ul>
+            <li>A Nagy Ételmesterek Szövetsége</li>
+            <li>A Versenybírák Tanácsa</li>
+            <li>A Lángoló Nap Fotográfusai</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr id="footer-divider">
+  <ul>
+    <li>© 2024 Nagy Verseny – Minden jog fenntartva.</li>
+    <li>A verseny szervezője: Julius, a sivatag ura. Elérhetőség: homokposta@nagyverseny.hu</li>
+  </ul>
+</footer>
+</body>
+</html>

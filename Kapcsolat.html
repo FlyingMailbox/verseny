@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kapcsolat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="nav">
+    <button onclick="location.href='index.html'" class="transparent-button bal-gomb">Kezdőlap</button>
+    <button onclick="location.href='Regisztralj.html'" class="transparent-button nagy-gomb">Regisztrálj Most!</button>
+    <button onclick="location.href='Versenyzok.html'" class="transparent-button">Versenyzők</button>
+    <button onclick="location.href='Szabalyok.html'" class="transparent-button ">Szabályok</button>
+    <button onclick="location.href='Dij.html'" class="transparent-button jobb-gomb">Díj</button>
+</div>
+
+<div>
+    <h1>Hahó, kalandvágyók és kíváncsi lelkek!</h1>
+</div>
+<div class="divider">
+    <img class="divider vine" src="inda.png" alt="inda">
+</div>
+<div>
+    <p>Az alábbi űrlap segítségével szólhatnak hozzánk, a Nagy Verseny rendezőihez. Akár jelentkezni szeretnének, akár kérdéseik lennének a homoktenger rejtelmeiről, itt megtalálnak minket. Töltsék ki az adatokat, s üzenetük biztosan elér hozzánk, mintha csak egy szellő sodorta volna azt a sivatag homokjában! Ne feledjék: minden kérdésük fontos nekünk!</p>
+</div>
+<form class="registry-container">
+    <div class="icon-row">
+        <img class="icon" src="user-colored.png" alt="">
+        <input type="text" placeholder="Név:">
+    </div>
+    <hr>
+    <div class="icon-row">
+        <img class="icon" src="mail-colored.png" alt="">
+        <input type="text" placeholder="Email:">
+    </div>
+    <hr>
+    <div class="icon-row">
+        <img class="icon" src="message-colored.png" alt="">
+        <textarea name="introduction" id="introduction-text" cols="100" rows="10" placeholder="Rövid bemutatkozás (maximum 3-4 mondat):"></textarea>
+    </div>
+    <hr>
+    <div class="icon-row">
+        <img class="icon" src="subject-colored.png" alt="">
+        <input type="text" placeholder="Mi ügyben keresel minket?">
+    </div>
+    <hr>
+</form>
+<div class="buttondiv">
+    <button type="submit" class="transparent-button">Üzenet küldése!</button>
+</div>
+<div class="divider">
+    <img class="divider vine" src="inda.png" alt="inda">
+</div>
+<p>Itt találod meg a Nagy Verseny helyszínét! Képzeld el a sivatag aranyló homokját, a tüzes napkorongot az égen, és a dicsőségért küzdő bátor szíveket. A térkép vezet majd téged – kövesd az utat, és légy részese a történelmi pillanatnak!</p>
+<div id="bg-container">
+    <div class="map-container">
+        <img id="map" src="map.webp" alt="térkép">
+    </div>
+</div>
+
+<img id="left-vine" src="inda.png" alt="inda">
+<img id="right-vine" src="inda.png" alt="inda">
+
+<footer>
+    <div class="footer-top">
+        <div class="footer-box left">
+            <div class="footer-top-text">
+                Szponzorok:
+            </div>
+            <ul>
+                <li>Sivatagi Napistenek Szövetsége</li>
+                <li>Arany Dűnék Kereskedői Karaván</li>
+                <li>Homok és Szél Alapítvány</li>
+                <li>Pálmaligetek Oázishálózata</li>
+            </ul>
+        </div>
+        <div class="footer-box right">
+            <div class="footer-top-text">
+                Közreműködők:
+            </div>
+            <div class="list-container">
+                <div class="footer-list">
+                    <ul>
+                        <li>A Sivatagi Homokmesterek</li>
+                        <li>A Színek és Jelképek Művészei</li>
+                        <li>A Térképész Céh Nagytanácsa</li>
+                        <li>A Fenséges Hangok Karavánja</li>
+                    </ul>
+                </div>
+                <div class="footer-list">
+                    <ul>
+                        <li>A Nagy Ételmesterek Szövetsége</li>
+                        <li>A Versenybírák Tanácsa</li>
+                        <li>A Lángoló Nap Fotográfusai</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr id="footer-divider">
+    <ul>
+        <li>© 2024 Nagy Verseny – Minden jog fenntartva.</li>
+        <li>A verseny szervezője: Julius, a sivatag ura. Elérhetőség: homokposta@nagyverseny.hu</li>
+    </ul>
+</footer>
+</body>
+</html>
